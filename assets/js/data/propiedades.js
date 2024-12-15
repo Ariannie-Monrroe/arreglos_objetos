@@ -2,7 +2,7 @@
 const propiedades_alquiler = [
     {
         nombre: 'Departamento Central',
-        src: 'https://via.placeholder.com/300x200',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Amplio departamento en el centro de la ciudad.',
         ubicacion: 'Santiago, Chile',
         habitaciones: 3,
@@ -13,7 +13,7 @@ const propiedades_alquiler = [
     },
     {
         nombre: 'Casa Familiar',
-        src: 'https://via.placeholder.com/300x200',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Casa ideal para familias grandes con jardín privado.',
         ubicacion: 'Viña del Mar, Chile',
         habitaciones: 4,
@@ -24,7 +24,7 @@ const propiedades_alquiler = [
     },
     {
         nombre: 'Estudio Moderno',
-        src: 'https://via.placeholder.com/300x200',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Estudio moderno cerca del metro.',
         ubicacion: 'Providencia, Chile',
         habitaciones: 1,
@@ -35,7 +35,7 @@ const propiedades_alquiler = [
     },
     {
         nombre: 'Cabaña Rústica',
-        src: 'https://via.placeholder.com/300x200',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Cabaña acogedora en la montaña.',
         ubicacion: 'La Serena, Chile',
         habitaciones: 2,
@@ -50,7 +50,7 @@ const propiedades_alquiler = [
 const propiedades_venta = [
     {
         nombre: 'Casa de Lujo',
-        src: 'https://via.placeholder.com/300x200',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Casa de lujo con piscina y amplios jardines.',
         ubicacion: 'Las Condes, Chile',
         habitaciones: 5,
@@ -61,7 +61,7 @@ const propiedades_venta = [
     },
     {
         nombre: 'Departamento Urbano',
-        src: 'https://via.placeholder.com/300x200',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Departamento con vista al parque.',
         ubicacion: 'Ñuñoa, Chile',
         habitaciones: 2,
@@ -72,7 +72,7 @@ const propiedades_venta = [
     },
     {
         nombre: 'Parcela de Agrado',
-        src: 'https://via.placeholder.com/300x200',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Amplia parcela con árboles frutales y terreno para cultivo.',
         ubicacion: 'Valle del Elqui, Chile',
         habitaciones: 3,
@@ -83,7 +83,7 @@ const propiedades_venta = [
     },
     {
         nombre: 'Cabaña Playera',
-        src: 'https://via.placeholder.com/300x200',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Cabaña con acceso directo a la playa.',
         ubicacion: 'Pichilemu, Chile',
         habitaciones: 2,
