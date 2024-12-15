@@ -12,6 +12,7 @@ const mostrarPropiedades = (propiedades, contenedorId) => {
                 <p class="card-text">${propiedad.descripcion}</p>
                 <p class="card-text">Ubicación: ${propiedad.ubicacion}</p>
                 <p class="card-text">Habitaciones: ${propiedad.habitaciones}</p>
+                <p class="card-text">Baños: ${propiedad.baños}</p>
                 <p class="card-text">Costo: $${propiedad.costo}</p>
             </div>
         </div>
