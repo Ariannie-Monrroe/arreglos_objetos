@@ -24,7 +24,7 @@ const propiedades_alquiler = [
     },
     {
         nombre: 'Estudio Moderno',
-        src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVZNb8M3MP93002-Pyyx865kmm9NKDKxBtA&s',
+        src: 'https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg',
         descripcion: 'Estudio moderno cerca del metro.',
         ubicacion: 'Providencia, Chile',
         habitaciones: 1,
@@ -72,7 +72,7 @@ const propiedades_venta = [
     },
     {
         nombre: 'Parcela de Agrado',
-        src: 'https://planoscasastop.com/wp-content/uploads/2021/08/wc-planos-casas-renders-rio-10.jpg',
+        src: 'https://theconcretehome.com/wp-content/uploads/2024/02/portada-galeria-tres-cantos.webp',
         descripcion: 'Amplia parcela con árboles frutales y terreno para cultivo.',
         ubicacion: 'Valle del Elqui, Chile',
         habitaciones: 3,
